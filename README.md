@@ -1,4 +1,4 @@
-# -2020-12   邮差管理系统
+2020-12   邮差管理系统
 
 功能描述：
 1.用户登录系统，可以查看个人寄件信息和填写寄件单提交寄件任务
@@ -8,3 +8,4 @@
 技术描述：
 1.整个项目使用SpringBoot + Spring Data Jpa +Echarts 实现；
 2.页面中使用echarts插件实现对数据的柱形图和饼图显示
+![image](https://user-images.githubusercontent.com/72901123/126270011-6b7f8e36-485e-4047-a1ca-bd59e7f387f0.png)
