@@ -13,10 +13,11 @@
 
 项目截图
 
-![image](https://user-images.githubusercontent.com/72901123/126270282-8a61cf8b-26e3-41db-b2bb-2ee0d2a606f2.png)
-![image](https://user-images.githubusercontent.com/72901123/126270305-6381be2a-0b21-46d9-bfa1-0a85366d10ea.png)
+顾客
 ![image](https://user-images.githubusercontent.com/72901123/126270332-e94513f1-5b74-4995-9370-e148c9dc7884.png)
 ![image](https://user-images.githubusercontent.com/72901123/126270346-7f16e8c2-aa40-410f-a00d-458ad7a1d058.png)
+
+邮差
 ![image](https://user-images.githubusercontent.com/72901123/126270371-1cd6ca3c-5a17-413c-8d8d-13b3765792ea.png)
 ![image](https://user-images.githubusercontent.com/72901123/126270393-1c409af8-37f5-430f-8d17-6df75b26f35e.png)
 
