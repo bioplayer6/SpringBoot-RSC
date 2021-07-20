@@ -10,6 +10,7 @@
 技术描述：
 1.整个项目使用SpringBoot + Spring Data Jpa +Echarts 实现；
 2.页面中使用echarts插件实现对数据的柱形图和饼图显示
+
 顾客
 ![image](https://user-images.githubusercontent.com/72901123/126270332-e94513f1-5b74-4995-9370-e148c9dc7884.png)
 ![image](https://user-images.githubusercontent.com/72901123/126270346-7f16e8c2-aa40-410f-a00d-458ad7a1d058.png)
