@@ -7,4 +7,4 @@
 
 技术描述：
 1.整个项目使用SpringBoot + Spring Data Jpa +Echarts 实现；
-2.页面中使用jquery、ajax和 echarts插件实现对数据的柱形图和饼图显示
+2.页面中使用echarts插件实现对数据的柱形图和饼图显示
